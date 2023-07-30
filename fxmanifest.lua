@@ -1,7 +1,8 @@
-fx_version 'cerulean'
+fx_version "cerulean"
 
 game "gta5"
-author 'Cocodurlo'
+author "Cocodurlo"
+version "1.0.0"
 
 description "Elevator Script by SkyStore"
 
@@ -16,7 +17,7 @@ client_scripts {
 	"src/menu/panels/*.lua",
 	"src/menu/panels/*.lua",
 	"src/menu/windows/*.lua",
-	'config.lua',
+	"config.lua",
 	"client.lua",
 }
 
