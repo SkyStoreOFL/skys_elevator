@@ -27,6 +27,7 @@
 - [ ] Job Whitelist. 
 - [ ] Job Grade Whitelist. 
 - [ ] PIN or Password access. 
+- [ ] Elevator IG Creator. 
 
 ## Installation
 ### Manual
