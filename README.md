@@ -1,6 +1,16 @@
 # skys_elevator
 
-<img src="https://media.discordapp.net/attachments/1099476286721765406/1099711186787897354/SkyStore_Logo_-_Rounded.png" alt= “” width="200" height="200"/>
+<h4 align="center">
+	<img src="https://raster.shields.io/github/release/StoreSky/skys_elevator.png">
+	<img src="https://img.shields.io/github/last-commit/StoreSky/skys_elevator.png">
+	<img src="https://img.shields.io/github/license/StoreSky/skys_elevator.png">
+	<img src="https://img.shields.io/github/issues/StoreSky/skys_elevator.png">
+	<img src="https://img.shields.io/github/contributors/StoreSky/skys_elevator.png">
+	<a href="https://discord.gg/EuWWfcAMWF" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/1092133908583288933/widget.png"></a>
+</h4>
+<div align="center">
+<img src="https://media.discordapp.net/attachments/1099476286721765406/1099711186787897354/SkyStore_Logo_-_Rounded.png" alt= “” width="250" height="250"/>
+</div>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
