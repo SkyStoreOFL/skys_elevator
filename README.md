@@ -1,29 +1,30 @@
 # skys_elevator
 
-<h4 align="center">
-	<img src="https://raster.shields.io/github/release/StoreSky/skys_elevator.png">
-	<img src="https://img.shields.io/github/last-commit/StoreSky/skys_elevator.png">
-	<img src="https://img.shields.io/github/license/StoreSky/skys_elevator.png">
-	<img src="https://img.shields.io/github/issues/StoreSky/skys_elevator.png">
-	<img src="https://img.shields.io/github/contributors/StoreSky/skys_elevator.png">
-	<a href="https://discord.gg/EuWWfcAMWF" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/1092133908583288933/widget.png"></a>
-</h4>
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1099476286721765406/1099711186787897354/SkyStore_Logo_-_Rounded.png" alt= “” width="250" height="250"/>
+
+<img src="https://images.weserv.nl/?url=cdn.discordapp.com/icons/1092133908583288933/df2166cf0bfd95dc46e50998ba3e2539.webp?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="skyslogo" width="100" height="100"/>
+<br>
+<br>
 </div>
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+<div align="center">
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-B19111?logo=javascript&logoColor=fff&style=flat)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=flat)
+![Static Badge](https://img.shields.io/badge/mission-Making_your_live_easier-blue)
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat)
+![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
+<br/>
+![GitHub stars](https://img.shields.io/github/stars/StoreSky/skys_notifications)
+![GitHub issues](https://img.shields.io/github/issues/StoreSky/skys_notifications)
+![GitHub forks](https://img.shields.io/github/forks/StoreSky/skys_notifications)
+![GitHub PRs](https://img.shields.io/github/issues-pr/StoreSky/skys_notifications)
+<a href="https://discord.gg/EuWWfcAMWF" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/1092133908583288933/widget.png"></a>
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+</div>
+
+> [!WARNING]
+> Any appearance similarity to other scripts is just coincidence. This script has been made from scratch.
   
 ## Features
 - Low Resmon (0.0 ms).
@@ -37,7 +38,7 @@
 - [ ] Job Whitelist. 
 - [ ] Job Grade Whitelist. 
 - [ ] PIN or Password access. 
-- [ ] Elevator IG Creator. 
+- [ ] IG Elevator Creator. 
 
 ## Installation
 ### Manual
