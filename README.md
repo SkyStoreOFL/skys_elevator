@@ -15,10 +15,10 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 <br/>
-![GitHub stars](https://img.shields.io/github/stars/StoreSky/skys_notifications)
-![GitHub issues](https://img.shields.io/github/issues/StoreSky/skys_notifications)
-![GitHub forks](https://img.shields.io/github/forks/StoreSky/skys_notifications)
-![GitHub PRs](https://img.shields.io/github/issues-pr/StoreSky/skys_notifications)
+![GitHub stars](https://img.shields.io/github/stars/StoreSky/skys_elevator)
+![GitHub issues](https://img.shields.io/github/issues/StoreSky/skys_elevator)
+![GitHub forks](https://img.shields.io/github/forks/StoreSky/skys_elevator)
+![GitHub PRs](https://img.shields.io/github/issues-pr/StoreSky/skys_elevator)
 <a href="https://discord.gg/EuWWfcAMWF" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/1092133908583288933/widget.png"></a>
 
 </div>
